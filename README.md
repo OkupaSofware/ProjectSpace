@@ -45,4 +45,4 @@
   <P align="center">Thanks for the level assets - https://www.cgtrader.com/free-3d-models/space/other/modular-sci-fi-floor-set</p>
  <h3 ALIGN="CENTER">__</H3>
    <P align="center">Made in Unreal Engine.</P>
- <P align="center">This work is not for commercial use.</P>
+ <P align="center">This work is not intended for commercial use.</P>
