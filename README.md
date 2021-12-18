@@ -2,7 +2,7 @@
 <p align="center"> 
 
   <img src=https://user-images.githubusercontent.com/91082053/143498004-cad32df3-9e1f-46ed-bc0d-e671f937c2d7.png>
-  <h2 align="center">Controlling a ship has never been such difficult and equally satisfying 
+  <h2 align="center">Controlling a ship has never been that challenging
      <br> 
     </br>
   <h2 align="center">An unique controller, for an unique experience
@@ -32,7 +32,7 @@
   
 <H2 ALIGN="CENTER">CREDITS</H2>
   <h3 ALIGN="CENTER">DEVELOPERS</H3>
-<P align="center">Antonio Espinosa García - Gameplay programmer, technical artist and interface programmer.</P>
+<P align="center">Antonio Espinosa García - Gameplay programmer, technical artist and interface programmer, 3D artist and level designer.</P>
 <P align="center">Alvaro Olavarria Bezanilla - Level designer, graphic designer and interface programmer.</P>
 <P align="center">Javier Serrano el Amo - Interface programmer and graphic designer.</P>
 <P align="center">Daniel Delgado - 3D artist.</P>
