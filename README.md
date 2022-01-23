@@ -38,7 +38,7 @@
 <P align="center">Antonio Espinosa García - Gameplay programmer, technical artist and interface programmer, 3D artist and level designer.</P>
 <P align="center">Alvaro Olavarria Bezanilla - Level designer, graphic designer and interface programmer.</P>
 <P align="center">Javier Serrano el Amo - Interface programmer and graphic designer.</P>
-<P align="center">Daniel Delgado - 3D artist.</P>
+
 
   <h3 ALIGN="CENTER">MUSIC</H3>
    <P align="center">Music property of Furi. Made by the Game Bakers. All Rights Reserved.</P>
