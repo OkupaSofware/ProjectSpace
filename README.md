@@ -5,6 +5,9 @@
   <h2 align="center">Controlling a ship has never been that challenging
      <br> 
     </br>
+    <img src=https://user-images.githubusercontent.com/79087129/149678110-83dfc612-c203-4e8c-a510-2f0e3201f402.gif width=60%>
+     <br> 
+    </br>
   <h2 align="center">An unique controller, for an unique experience
     <br> 
     </br>
